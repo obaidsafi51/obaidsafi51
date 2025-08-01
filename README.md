@@ -95,7 +95,7 @@ I'm passionate about leveraging technology to solve real-world problems, particu
 ## 🏆 Hackathons & Competitions
 
 <div align="center">
-  <table>
+  <table style = "outline: none">
     <tr align="center">
       <td align="center">
         <img src="https://raw.githubusercontent.com/obaidsafi51/Achievements/refs/heads/main/mit3.jpg?token=GHSAT0AAAAAADE4WWHOSMEVNBMAXCQHQ3JS2ENDQBA" alt="MIT² Contest" width="800"/>
@@ -111,14 +111,16 @@ I'm passionate about leveraging technology to solve real-world problems, particu
         <img src="https://raw.githubusercontent.com/obaidsafi51/Achievements/refs/heads/main/CS50x%20Puzzle%20Day%202025.png?token=GHSAT0AAAAAADE4WWHPIAAUP3JWVK27376Q2ENDVIQ" alt="AI Challenge" width="800"/>
         <br><strong>CS50X Puzzle Day 2025 - Harvard</strong><br>
       </td>
+    </tr>
+    <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/obaidsafi51/Achievements/refs/heads/main/CANPPEBIGO97.png?token=GHSAT0AAAAAADE4WWHP34LY6OJ2NLTEETDO2ENDYQA" alt="Blockchain Summit" width="200"/>
+        <img src="https://raw.githubusercontent.com/obaidsafi51/Achievements/refs/heads/main/CANPPEBIGO97.png?token=GHSAT0AAAAAADE4WWHP34LY6OJ2NLTEETDO2ENDYQA" alt="Blockchain Summit" width="400"/>
         <br><strong>Gemma 2 Hackathon</strong><br>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/obaidsafi51/Achievements/refs/heads/main/Raise-your-hack.png?token=GHSAT0AAAAAADE4WWHPAKVFCLIC7YIKON7O2END5KA" alt="Tech Innovation" width="500"/>
+        <img src="https://raw.githubusercontent.com/obaidsafi51/Achievements/refs/heads/main/Raise-your-hack.png?token=GHSAT0AAAAAADE4WWHPAKVFCLIC7YIKON7O2END5KA" alt="Tech Innovation" width="400"/>
         <br><strong>Raise Your Hack</strong><br>
-      </td>
+      </td> 
     </tr>
   </table>
 </div>
